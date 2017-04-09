@@ -1,0 +1,18 @@
+/home/kai/Desktop/ctf/2016/hw3/glibc-2.21/build/stdlib/old_atexit.o: \
+ old_atexit.c ../include/stdc-predef.h \
+ /home/kai/Desktop/ctf/2016/hw3/glibc-2.21/build/libc-modules.h \
+ ../include/libc-symbols.h \
+ /home/kai/Desktop/ctf/2016/hw3/glibc-2.21/build/config.h \
+ ../sysdeps/generic/symbol-hacks.h ../include/shlib-compat.h
+
+../include/stdc-predef.h:
+
+/home/kai/Desktop/ctf/2016/hw3/glibc-2.21/build/libc-modules.h:
+
+../include/libc-symbols.h:
+
+/home/kai/Desktop/ctf/2016/hw3/glibc-2.21/build/config.h:
+
+../sysdeps/generic/symbol-hacks.h:
+
+../include/shlib-compat.h:
